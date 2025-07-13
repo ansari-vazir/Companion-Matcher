@@ -38,6 +38,7 @@ Server runs at: http://localhost:3000
 2. Install dependencies: npm install
 3. Start the server: npm run dev
 
-Server runs at: http://localhost:5173
+App runs at: http://localhost:5173
+
 
 <img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/54fd9499-15ca-4602-a61e-fb3dc453d3a0" />
